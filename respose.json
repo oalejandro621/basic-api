@@ -1,0 +1,42 @@
+{
+    "data": [
+        {
+            "WritingNo": "ABC123",
+            "CustNo": "f0c04713-890e-4466-8fe6-17d6357cfa6a",
+            "QuantityOnHand": 0,
+            "maxlimit": 100,
+            "minlimit": 0,
+            "preOrder": false,
+            "overLimit": false,
+            "outOfStock": false,
+            "Type": null,
+            "Item": null,
+            "kitInfo": null,
+            "item_bundle_qty": null,
+            "message": "Error - This item is not available for ordering",
+            "Discounts": null,
+            "InventoryMode": null,
+            "Options": null,
+            "ProductVariants": null
+        },
+        {
+            "WritingNo": "XYZ789",
+            "CustNo": "f0c04713-890e-4466-8fe6-17d6357cfa6a",
+            "QuantityOnHand": 0,
+            "maxlimit": 20,
+            "minlimit": 0,
+            "preOrder": false,
+            "overLimit": false,
+            "outOfStock": false,
+            "Type": null,
+            "Item": null,
+            "kitInfo": null,
+            "item_bundle_qty": null,
+            "message": "Error - This item is not available for ordering",
+            "Discounts": null,
+            "InventoryMode": null,
+            "Options": null,
+            "ProductVariants": null
+        }
+    ]
+}
